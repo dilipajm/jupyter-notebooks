@@ -1,2 +1,2 @@
-pip install numpy
-pip install pandas
+python -m pip install numpy
+python -m pip install pandas
